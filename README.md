@@ -130,5 +130,5 @@ To explore the dashboard:
 
 If you'd like to collaborate or explore more analytics dashboards, feel free to connect with me on:
 
-Example:[
+Example:![Dashboard preview](
 
